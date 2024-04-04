@@ -1,6 +1,5 @@
 import os
 import telebot
-import types
 
 BOT_TOKEN = "7066297556:AAEen9OWKQ0qU9TSUGESfPrzRuseNo6GrOE"
 
